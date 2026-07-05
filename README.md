@@ -111,7 +111,7 @@ The App can be used without creating an account or signing in. You are responsib
 
 ### 5. Curtain Pro subscription and auto-renewal
 
-Curtain Pro is offered as a monthly or yearly auto-renewable subscription, or as a one-time lifetime access. Payment is charged to your Apple App Store account upon purchase confirmation. Unless cancelled at least 24 hours before the end of the current period, the subscription renews automatically and the same fee is charged for the same duration. Subscriptions are verified and managed through RevenueCat. Prices and plans are shown within the App and on the App Store; prices may change over time.
+Curtain Pro is offered as a monthly or yearly auto-renewable subscription. Payment is charged to your Apple App Store account upon purchase confirmation. Unless cancelled at least 24 hours before the end of the current period, the subscription renews automatically and the same fee is charged for the same duration. Subscriptions are verified and managed through RevenueCat. Prices and plans are shown within the App and on the App Store; prices may change over time.
 
 ### 6. Free version and limits
 
@@ -286,7 +286,7 @@ Uygulama, hesap oluşturmadan ve giriş yapmadan kullanılabilir. Verilerinizin 
 
 ### 5. Curtain Pro aboneliği ve otomatik yenileme
 
-Curtain Pro; aylık veya yıllık otomatik yenilenen (auto-renewable) abonelik ya da tek seferlik ömür boyu erişim olarak sunulur. Ödeme, satın alma onayında Apple App Store hesabınızdan tahsil edilir. Abonelik, mevcut dönemin bitiminden en az 24 saat önce iptal edilmediği takdirde otomatik olarak yenilenir ve ücret aynı süre için tahsil edilir. Aboneliklerin doğrulanması ve yönetimi RevenueCat altyapısı üzerinden yapılır. Ücretler ve planlar Uygulama içinde ve App Store'da gösterilir; fiyatlar zamanla değişebilir.
+Curtain Pro; aylık veya yıllık otomatik yenilenen (auto-renewable) abonelik olarak sunulur. Ödeme, satın alma onayında Apple App Store hesabınızdan tahsil edilir. Abonelik, mevcut dönemin bitiminden en az 24 saat önce iptal edilmediği takdirde otomatik olarak yenilenir ve ücret aynı süre için tahsil edilir. Aboneliklerin doğrulanması ve yönetimi RevenueCat altyapısı üzerinden yapılır. Ücretler ve planlar Uygulama içinde ve App Store'da gösterilir; fiyatlar zamanla değişebilir.
 
 ### 6. Ücretsiz sürüm ve sınırlar
 
